@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Arshavir Voskanyan 👋
 
-<!--
-**Arshavir01/Arshavir01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Android Engineer, moving into AI / machine learning engineering.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Building machine learning and deep learning projects with Python, scikit-learn, TensorFlow and Keras
+- Next: deploying models as web apps, running a model on-device on Android (TensorFlow Lite), and building an LLM project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+| Project | What it is |
+|---------|------------|
+| [Face Mask Detection](https://github.com/Arshavir01/DL_Project_FaceMaskDetection) | A CNN that detects face masks in photos (89.5% test accuracy) |
+| [Machine Learning Projects](https://github.com/Arshavir01/machine_learning_projects) | 8 classification and regression projects, each with results and limitations |
+| [Deep Learning Projects](https://github.com/Arshavir01/deep_learning_projects) | 6 projects with CNNs and transfer learning (MobileNetV2, ResNet50) |
+
+## Skills
+Python, pandas, NumPy, scikit-learn, TensorFlow, Keras, Matplotlib, Git, Android development
