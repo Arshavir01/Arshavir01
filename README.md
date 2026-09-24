@@ -4,7 +4,9 @@ Senior Android Engineer, moving into AI / machine learning engineering.
 
 ## What I'm working on
 - Building machine learning and deep learning projects with Python, scikit-learn, TensorFlow and Keras
-- Next: deploying models as web apps, running a model on-device on Android (TensorFlow Lite), and building an LLM project
+- Next: deploying models as web apps:
+  https://diabetes-appgit-4m6xm28bjusw2acbeoy9hk.streamlit.app/
+  https://facemask-detection-app-cnn-01.streamlit.app/ 
 
 ## Featured projects
 | Project | What it is |
